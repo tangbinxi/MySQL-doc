@@ -1,4 +1,15 @@
 # friday-doc
+
+#
+## 学习Markdown，并跟着练习以github的markdown的风格标准.
+| 标题 | 内容 | 备注 |
+| ---- |-----|----|
+| 今天 | 很热 | 少穿 |
+| 昨天 | 下雨 | 没伞 |
+#
+[百度](http://www.baidu.com)
+#
+## 表情@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 #
 ## Apache介绍及安装
 #
@@ -28,4 +39,3 @@
  | 学号 | char   | 9  |主键  |  
 | 课程号 | char | 4  | 主键  |  
 | 成绩 | smallint | 6 |   |   
-
