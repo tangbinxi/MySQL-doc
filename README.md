@@ -9,4 +9,4 @@
 ### [第八天](20170621.md)
 ### 课程设计
 * [表格](20170616.md)
-* [源码]()
+* [源码](https://github.com/tangbinxi/stuinfo)
